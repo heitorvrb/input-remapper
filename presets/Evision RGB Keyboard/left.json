@@ -1,0 +1,28 @@
+{
+    "mapping": {
+        "1,57,1": [
+            "BackSpace",
+            "keyboard"
+        ],
+        "1,58,1": [
+            "Escape",
+            "keyboard"
+        ],
+        "1,50,1": [
+            "F5",
+            "keyboard"
+        ],
+        "1,59,1": [
+            "Alt_L+Tab",
+            "keyboard"
+        ],
+        "1,49,1": [
+            "Return",
+            "keyboard"
+        ],
+        "1,25,1": [
+            "Control_L",
+            "keyboard"
+        ]
+    }
+}
