@@ -1,0 +1,1 @@
+My personal split custom configurations, using Input Remapper, xcape and xmodmap.
