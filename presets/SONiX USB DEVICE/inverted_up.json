@@ -92,28 +92,8 @@
             "Return",
             "keyboard"
         ],
-        "1,44,1": [
-            "Left",
-            "keyboard"
-        ],
-        "1,45,1": [
-            "Down",
-            "keyboard"
-        ],
-        "1,46,1": [
-            "Up",
-            "keyboard"
-        ],
-        "1,47,1": [
-            "Right",
-            "keyboard"
-        ],
         "1,41,1": [
             "dead_tilde",
-            "keyboard"
-        ],
-        "1,49,1": [
-            "bracketright",
             "keyboard"
         ],
         "1,57,1": [
@@ -128,20 +108,40 @@
             "bracketleft",
             "keyboard"
         ],
-        "1,48,1": [
-            "ccedilla",
-            "keyboard"
-        ],
-        "1,25,1": [
-            "backslash",
-            "keyboard"
-        ],
         "1,1,1": [
             "F12",
             "keyboard"
         ],
         "1,56,1": [
             "Delete",
+            "keyboard"
+        ],
+        "1,48,1": [
+            "dead_tilde",
+            "keyboard"
+        ],
+        "1,47,1": [
+            "ccedilla",
+            "keyboard"
+        ],
+        "1,44,1": [
+            "bracketleft",
+            "keyboard"
+        ],
+        "1,45,1": [
+            "bracketright",
+            "keyboard"
+        ],
+        "1,46,1": [
+            "backslash",
+            "keyboard"
+        ],
+        "1,49,1": [
+            "Home",
+            "keyboard"
+        ],
+        "1,25,1": [
+            "End",
             "keyboard"
         ]
     }
