@@ -92,20 +92,12 @@
             "Return",
             "keyboard"
         ],
-        "1,41,1": [
-            "dead_tilde",
-            "keyboard"
-        ],
         "1,57,1": [
             "Down",
             "keyboard"
         ],
         "1,58,1": [
             "equal",
-            "keyboard"
-        ],
-        "1,15,1": [
-            "bracketleft",
             "keyboard"
         ],
         "1,1,1": [
@@ -143,6 +135,14 @@
         "1,25,1": [
             "End",
             "keyboard"
+        ],
+        "1,15,1": [
+            "Print",
+            "keyboard"
+        ],
+        "1,41,1": [
+            "BTN_LEFT",
+            "mouse"
         ]
     }
 }

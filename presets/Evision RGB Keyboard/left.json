@@ -23,6 +23,10 @@
         "1,49,1": [
             "ISO_Level3_Shift",
             "keyboard"
+        ],
+        "1,1,1": [
+            "KEY_PLAYPAUSE",
+            "keyboard"
         ]
     }
 }
