@@ -8,24 +8,24 @@
             "F5",
             "keyboard"
         ],
-        "1,25,1": [
-            "Control_L",
-            "keyboard"
-        ],
-        "1,57,1": [
-            "Super_L",
-            "keyboard"
-        ],
         "1,59,1": [
             "Return",
             "keyboard"
         ],
-        "1,49,1": [
-            "ISO_Level3_Shift",
-            "keyboard"
-        ],
         "1,1,1": [
             "KEY_PLAYPAUSE",
+            "keyboard"
+        ],
+        "1,25,1": [
+            "Super_L",
+            "keyboard"
+        ],
+        "1,57,1": [
+            "Control_L",
+            "keyboard"
+        ],
+        "1,49,1": [
+            "ISO_Level3_Shift",
             "keyboard"
         ]
     }

@@ -32,10 +32,6 @@
             "Down",
             "keyboard"
         ],
-        "1,1,1": [
-            "F12",
-            "keyboard"
-        ],
         "1,56,1": [
             "Delete",
             "keyboard"
@@ -120,10 +116,6 @@
             "dead_tilde",
             "keyboard"
         ],
-        "1,7,1": [
-            "equal",
-            "keyboard"
-        ],
         "1,19,1": [
             "ccedilla",
             "keyboard"
@@ -142,6 +134,14 @@
         ],
         "1,47,1": [
             "F8",
+            "keyboard"
+        ],
+        "1,1,1": [
+            "equal",
+            "keyboard"
+        ],
+        "1,7,1": [
+            "F12",
             "keyboard"
         ]
     }
