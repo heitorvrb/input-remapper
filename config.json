@@ -3,7 +3,8 @@
     "autoload": {
         "Evision RGB Keyboard": "left",
         "Logitech USB Keyboard": "Dual",
-        "SONiX USB DEVICE": "inverted_up"
+        "SONiX USB DEVICE": "inverted_up",
+        "Telink Wireless Receiver": "keypad"
     },
     "macros": {
         "keystroke_sleep_ms": 10
